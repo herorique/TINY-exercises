@@ -1,0 +1,8 @@
+Ruby:
+https://guides.rubyonrails.org/getting_started.html
+
+Ruby on rails connect mysql database
+https://www.youtube.com/watch?v=6Yn2MhHYlyE
+
+MySQL Connector:
+https://github.com/brianmario/mysql2/issues/364
